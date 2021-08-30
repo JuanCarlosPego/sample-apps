@@ -1,4 +1,4 @@
-# Sample Apps
+# Sample Apps: Varias APP con Docker: RabbitMq y Python, FastApi con cx_oracle y Oracle Client. NUY BUENO.
 Machine Learning sample apps - this repo provides sample code to support my [articles](https://towardsdatascience.com/@andrejusb) on Towards Data Science and Youtube [channel](https://www.youtube.com/channel/UCqSX0Z20QCEE7tZKaQ4pS3Q).
 
 [01](https://github.com/katanaml/sample-apps/tree/master/01) - [Zero-Shot Text Classification with Hugging Face](https://towardsdatascience.com/zero-shot-text-classification-with-hugging-face-7f533ba83cd6)
